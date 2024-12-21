@@ -1,2 +1,0 @@
-grep -rl "daftar-kupon-akhir-tahun-2" . | xargs sed -i "s/daftar-kupon-akhir-tahun-2/new-name/g"
-grep -rl "Daftar Kupon Akhir Tahun" . | xargs sed -i "s/Daftar Kupon Akhir Tahun/New Name/g"
